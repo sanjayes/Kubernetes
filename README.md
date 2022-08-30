@@ -50,6 +50,6 @@ If you can't access the NodePort service webapp with `MinikubeIP:NodePort`, exec
 * webapp image on Docker Hub: https://hub.docker.com/repository/docker/nanajanashia/k8s-demo-app
 * k8s official documentation: https://kubernetes.io/docs/home/
 * webapp code repo: https://gitlab.com/nanuchi/developing-with-docker/-/tree/feature/k8s-in-hour
-* tutorial: https://youtu.be/s_o8dwzRlu4
+
 [![Tutorial](https://img.youtube.com/vi/s_o8dwzRlu4/0.jpg)](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 
